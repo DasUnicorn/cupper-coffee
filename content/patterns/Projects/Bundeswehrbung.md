@@ -1,6 +1,7 @@
 +++
 title = "Bundeswerbung"
 tags = ["software", "social", "2022"]
+weight = 2
 +++
 
 Mit der Abschaffung des Wehrdienstes griff die deutsche Bundeswehr 2016 zu neuen Maßnahmen. Die Webserie "Die Rekruten" soll auf YouTube nach neuen und vor allem jungen Wehrdienst-Interessierten werben. Für diesen Zweck setzt man auf Jumpcuts, kecke Sprüche und Jugendsprache. 

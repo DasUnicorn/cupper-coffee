@@ -1,6 +1,7 @@
 +++
 title = "Kladderadatsch"
 tags = ["software", "social", "2018"]
+weight = 5
 +++
 
 **Kladderadatsch - Mok din shiet!**

@@ -1,6 +1,7 @@
 +++
 title = "Junk Mail Cards"
 tags = ["art", "social", "2020"]
+weight = 3
 +++
 
 Mein erstes "DickPic" bekam ich mit 16 gesendet und wie bei den meisten Menschen die solche Bilder von Fremden erhalten: ungewollt.
