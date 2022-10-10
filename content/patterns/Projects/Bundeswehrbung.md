@@ -1,5 +1,5 @@
 +++
-title = "Bundeswerbung"
+title = "Bundeswehrbung"
 tags = ["software", "social", "2022"]
 weight = 2
 +++

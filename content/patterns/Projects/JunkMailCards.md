@@ -1,5 +1,5 @@
 +++
-title = "Junk Mail Cards"
+title = "JunkMailCards"
 tags = ["art", "social", "2020"]
 weight = 3
 +++

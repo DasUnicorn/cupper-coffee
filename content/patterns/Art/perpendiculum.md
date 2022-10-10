@@ -1,5 +1,5 @@
 +++
-title = "Perpendikulum"
+title = "perpendiculum"
 tags = ["art", "fotographie", "blog"]
 weight = 4
 +++
