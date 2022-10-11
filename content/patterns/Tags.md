@@ -1,7 +1,7 @@
 +++
 title = "Tags"
 toc = false
-weight = 2
+weight = 100
 +++
 
 # By year

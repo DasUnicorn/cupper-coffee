@@ -330,6 +330,7 @@ caption {
 }
 .logo {
     border: 0;
+    display: inline-block;
 }
 .logo img {
     width: 100%;

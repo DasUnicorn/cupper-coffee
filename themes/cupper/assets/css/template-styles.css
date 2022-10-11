@@ -343,10 +343,12 @@ caption {
 }
 .logo {
     border: 0;
+    display: inline-block;
 }
 .logo img {
     width: 100%;
     max-width: 12rem;
+    display: inline-block;
 }
 .library-desc {
     margin-top: 0.5rem;
