@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>.coffee on Lana.Coffee</title>
+    <title>Hi, ich bin Lana. on Lana.Coffee</title>
     <link>https://lana.coffee/</link>
-    <description>Recent content in .coffee on Lana.Coffee</description>
+    <description>Recent content in Hi, ich bin Lana. on Lana.Coffee</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://lana.coffee/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>dasUnicorn</title>
@@ -60,8 +60,8 @@ Auch wenn ich alle mir gesendeten Bilder meldete und die Personen blockierte sah
       
       <guid>https://lana.coffee/patterns/art/perpendiculum/</guid>
       <description>perpendiculum &amp;lt;ī&amp;gt; nt (perpendo)
- perpendiculum - Bleilot, Richtschnur | ad perpendiculum - senkrecht
-  Von mir gemachte Bilder wurden früher innerhalb meines Blogs in Gallerien veröffentlicht. Da diese jedoch nie für eine größere Menge Bilder optimiert wurden, kann man sich alleine Fotos auch auf flickr und auf pixelfed ansehen.</description>
+perpendiculum - Bleilot, Richtschnur | ad perpendiculum - senkrecht
+Von mir gemachte Bilder wurden früher innerhalb meines Blogs in Gallerien veröffentlicht. Da diese jedoch nie für eine größere Menge Bilder optimiert wurden, kann man sich alleine Fotos auch auf flickr und auf pixelfed ansehen.</description>
     </item>
     
     <item>
@@ -74,15 +74,6 @@ Auch wenn ich alle mir gesendeten Bilder meldete und die Personen blockierte sah
 Ist ein Projekt, welches im Rahmen eines Healthcare-Hakathons entstanden ist.
 Die Idee ist simpel:
 ToDo Apps werden für Menschen gebaut, welche ihre Aufgaben erinnern, sortieren, oder im Blick behalten wollen. Herkömmliche ToDo Apps gehen dabei jedoch davon aus, dass Menschen auch die Energie für die notwendigen Aufgaben haben. Leidet man an Energielosigkeit und Erschöpfung, so wirken jedoch lange Listen und stetige Erinnerungen eher zu Überforderung und Resignation.</description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>https://lana.coffee/patterns/tags/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lana.coffee/patterns/tags/</guid>
-      <description>By year  2022 2020 2018 2016  By Topic  art blog social software  </description>
     </item>
     
     <item>
